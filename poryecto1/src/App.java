@@ -3,4 +3,8 @@ public class App {
         System.out.println("Hello, World!");
         
     }
+    public void metodo1(){
+        System.out.println("Hola he añadido un nuevo metodo!");
+
+    }
 }
